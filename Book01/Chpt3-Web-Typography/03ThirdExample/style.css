@@ -12,6 +12,12 @@ p {
 	font-size: 1.4em;
 }
 
-li {				/*reset the font size property for nested list items with a descendant property with li li */
+li {				
 	font-size: 1.4em;
 }
+
+/*reset the font size property for nested list items with a descendant property with 
+
+li li{								
+	font-size: 1em;
+}*/
