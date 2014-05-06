@@ -1,0 +1,17 @@
+/* the problem with em units is that their values can compund */
+
+body {
+	font-size: 62.5%;
+}
+
+h1 {
+	font-size: 2.4em;
+}
+
+p {
+	font-size: 1.4em;
+}
+
+li {				/*reset the font size property for nested list items with a descendant property with li li */
+	font-size: 1.4em;
+}
