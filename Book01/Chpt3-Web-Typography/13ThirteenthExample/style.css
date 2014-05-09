@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	line-height: 1.2;
+	color: #333;
+	font-family: "FF Meta Web Pro", Tahoma, Verdana, Arial, sans-serif;
+}
+/*When there is a space in a font family anme, place quotation marks aroiund the name, This lets the browser know that space is 
+intentional and part of the font name.*/
+
+#content {
+	width: 500px;
+	text-align: left;
+	margin: 25px auto;
+}
